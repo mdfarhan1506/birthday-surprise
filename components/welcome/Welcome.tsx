@@ -1,3 +1,5 @@
+"use client"; 
+
 export default function Welcome() {
   return (
     <section className="relative min-h-screen overflow-hidden bg-gradient-to-br from-pink-50 via-white to-pink-100">
