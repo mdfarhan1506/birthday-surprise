@@ -4,45 +4,33 @@ export default function Surprise() {
 
       <div className="max-w-4xl bg-white/90 backdrop-blur-lg rounded-[35px] shadow-2xl border-4 border-pink-200 p-10 text-center">
 
-        <h1 className="text-5xl font-extrabold text-pink-600 mb-2">
-          Happy Birthday, Tommy ❤️
-        </h1>
+        <h1 className="text-5xl font-extrabold text-pink-600 mb-8">
+  Happy Birthday, Tommy ❤️
+</h1>
 
-        <p className="text-pink-500 text-lg mb-10 italic">
-          A few words from my heart...
-        </p>
+<div className="text-xl leading-10 text-gray-700 whitespace-pre-line text-left max-w-3xl mx-auto">
+{`Har dua mein tera hi naam aaye,
+Har muskaan pe tera hi noor chha jaaye.
+Tu meri zindagi ka woh haseen ehsaas hai,
+Jiska hona hi mere liye sabse khaas hai.
 
-        <div className="text-left text-gray-700 text-2xl leading-[2.3rem] space-y-8">
+Na har rishta lafzon se bayaan hota hai,
+Kuch apnapan sirf dil se mehsoos hota hai.
+Bas itna yaad rakhna, chahe waqt kaisa bhi ho,
+Main hamesha tere saath khada milunga, jo bhi ho.
 
-          <p>
-            Har dua mein tera hi naam aaye,<br />
-            Har muskaan teri meri wajah ban jaaye.<br />
-            Tu sirf ek dost nahi, meri zindagi ka haseen ehsaas hai,<br />
-            Jitna kahun utna kam, tu mere liye bahut khaas hai.
-          </p>
+Khushi ho teri, toh meri dua ban jaaye,
+Gham ho tera, uske jaane ki wajah main ban jaaun.
+Meri har koshish bas itni si rahegi,
+Teri muskaan kabhi bhi kam na padegi.
 
-          <p>
-            Jab bhi tujhe zarurat ho, bas ek awaaz dena,<br />
-            Khushiyon mein hasna, ghamon mein mera saath lena.<br />
-            Main har mod par apni puri koshish se tere saath rahunga,<br />
-            Chahe waqt badle, par apna saath kabhi na badalunga.
-          </p>
+Tu hamesha yun hi hansti rahe, yahi meri dua hai,
+Teri har manzil aasaan ho, yahi meri wafa hai.
+Janamdin mubarak ho, Tommy…
 
-          <p>
-            Teri har khushi meri dua ban jaaye,<br />
-            Har aansu tujhse hamesha door chala jaaye.<br />
-            Rab se bas itni si fariyaad rehti hai,<br />
-            Teri zindagi hamesha mohabbat aur muskurahat se bhari rehti hai.
-          </p>
-
-          <p>
-            Janamdin mubarak ho, Tommy.<br />
-            Tu hamesha yun hi muskurati rehna…<br />
-            Kyuki kuch log sirf zindagi ka hissa nahi hote,<br />
-            Woh zindagi ko hi khoobsurat bana dete hain. ❤️
-          </p>
-
-        </div>
+Tu sirf mere liye ek dost nahi,
+Meri zindagi ka bahut hi khaas hissa hai. 🤍`}
+</div>
 
         <div className="mt-12 border-t border-pink-200 pt-8">
 
